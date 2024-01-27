@@ -1,0 +1,35 @@
+.bg-p {
+    background-color: #0186ff;
+}
+
+.txt-p {
+    color: #0186ff;
+}
+
+.bg-s {
+    background-color: #ffe49c;
+}
+
+.bg-t {
+    background-color: #efaeb0;
+}
+
+.bg-f {
+    background-color: #eeeff1;
+}
+
+body {
+    background-color: #8de5fb;
+    width: 100vw;
+    height: 100vh;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+.text-c1 {
+    color: rgb(116, 112, 112);
+}
+
+.link {
+    cursor: pointer;
+}
